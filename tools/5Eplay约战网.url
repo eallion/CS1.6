@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://bbs.5eplay.com/battle/cs/huadong/1
+[DOC_aswift_0]
+BASEURL=http://bbs.5eplay.com/battle/cs/huadong/1
+ORIGURL=
+[DOC_aswift_0_google_ads_frame1#77]
+BASEURL=https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAATqpSi3HIUVTozkhkQNbvsL0yQ_-sMDO5
+ORIGURL=http://googleads.g.doubleclick.net/pagead/drt/s
+[InternetShortcut]
+URL=http://bbs.5eplay.com/battle/cs/huadong/1
+IDList=
+IconFile=http://bbs.5eplay.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,54 @@
+"MasterServers"
+{
+	"hl1"
+	{
+		"0"
+		{
+			"addr"		"hl1master.steampowered.com:27010"
+		}
+		"1"
+		{
+			"addr"		"css.setti.info:27010"
+		}
+		"2"
+		{
+			"addr"		"188.40.40.201:27010"
+		}
+		"3"
+		{
+			"addr"		"69.28.140.247:27010"
+		}
+		"4"
+		{
+			"addr"		"209.197.20.34:27010"
+		}
+		"5"
+		{
+			"addr"		"69.28.158.131:27010"
+		}
+		"6"
+		{
+			"addr"		"hl1master.5eplay.com:27010"
+		}
+	}
+
+	"hl2"
+	{
+		"0"
+		{
+			"addr"		"hl2master.steampowered.com:27011"
+		}
+		"1"
+		{
+			"addr"		"css.setti.info:27011"
+		}
+		"2"
+		{
+			"addr"		"188.40.40.201:27011"
+		}
+	}
+	"rdkf"
+	{
+	}
+}
+

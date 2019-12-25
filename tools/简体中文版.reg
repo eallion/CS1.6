@@ -1,0 +1,13 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Valve]
+
+[HKEY_CURRENT_USER\Software\Valve\Half-Life]
+
+[HKEY_CURRENT_USER\Software\Valve\Half-Life\Settings]
+"ValveKey"="55WNH-GSPH7-Q8QQT-AMIYV-3Y5BB"
+
+[HKEY_CURRENT_USER\Software\Valve\Steam]
+"Language"="schinese"
+"Skin"=""
+"Rate"=""

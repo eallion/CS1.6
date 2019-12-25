@@ -1,0 +1,119 @@
+L 03/01/2012 - 15:21:45: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 15:21:45: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:21:45: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:21:45: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:21:45: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:21:45: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:21:50: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 15:34:07: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 15:34:07: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:34:07: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:34:07: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:34:07: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:34:07: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:34:07: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 15:54:16: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 15:54:16: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:54:16: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:54:16: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:54:16: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:54:16: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:54:17: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 15:56:21: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 15:56:21: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:56:21: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:56:21: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:56:21: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:56:21: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:56:22: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 15:57:10: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 15:57:10: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:57:10: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:57:10: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:57:10: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:57:10: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:57:10: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 15:58:57: -------- Mapchange to aim_usp --------
+L 03/01/2012 - 15:58:57: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 15:58:57: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:58:57: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 15:58:57: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:58:57: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 15:58:58: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:00:11: -------- Mapchange to de_dust2 --------
+L 03/01/2012 - 16:00:11: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:00:11: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:00:11: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:00:11: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:00:11: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:00:12: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:01:15: -------- Mapchange to awp_map --------
+L 03/01/2012 - 16:01:15: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:01:15: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:01:15: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:01:15: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:01:15: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:01:16: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:02:24: -------- Mapchange to 3d_aim_train_a --------
+L 03/01/2012 - 16:02:24: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:02:24: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:02:24: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:02:24: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:02:24: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:02:25: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:03:24: -------- Mapchange to aim_qpad_2007 --------
+L 03/01/2012 - 16:03:24: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:03:24: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:03:24: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:03:24: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:03:24: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:03:24: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:04:34: -------- Mapchange to de_nuke --------
+L 03/01/2012 - 16:04:34: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:04:34: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:04:34: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:04:34: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:04:34: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:04:35: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:05:45: -------- Mapchange to de_nuke_spam_spots --------
+L 03/01/2012 - 16:05:45: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:05:45: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:05:45: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:05:45: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:05:45: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:05:46: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:06:19: -------- Mapchange to de_mirage --------
+L 03/01/2012 - 16:06:19: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:06:19: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:06:19: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:06:19: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:06:19: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:06:20: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:07:43: -------- Mapchange to R2R_NukeJump --------
+L 03/01/2012 - 16:07:43: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:07:43: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:07:43: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:07:43: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:07:43: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:07:44: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:11:04: -------- Mapchange to de_forge --------
+L 03/01/2012 - 16:11:04: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:11:04: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:11:04: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:11:04: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:11:04: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:11:05: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:13:37: -------- Mapchange to awp_map --------
+L 03/01/2012 - 16:13:37: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:13:37: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:13:37: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:13:37: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:13:37: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:13:38: [CSDM2] CSDM failed to load, contact author...
+L 03/01/2012 - 16:14:32: -------- Mapchange to de_forge --------
+L 03/01/2012 - 16:14:32: [AMXX] Plugin "csdm_main.amxx" failed to load: Plugin uses an unknown function (name "csdm_respawn") - check your modules.ini.
+L 03/01/2012 - 16:14:32: [AMXX] Plugin "csdm_equip.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:14:32: [AMXX] Plugin "csdm_spawn_preset.amxx" failed to load: Plugin uses an unknown function (name "csdm_trace_hull") - check your modules.ini.
+L 03/01/2012 - 16:14:32: [AMXX] Plugin "csdm_misc.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:14:32: [AMXX] Plugin "csdm_protection.amxx" failed to load: Plugin uses an unknown function (name "csdm_active") - check your modules.ini.
+L 03/01/2012 - 16:14:33: [CSDM2] CSDM failed to load, contact author...

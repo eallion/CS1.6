@@ -1,0 +1,85 @@
+L 03/01/2012 - 15:21:51: Start of error session.
+L 03/01/2012 - 15:21:51: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:21:51: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:21:51: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:21:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 15:34:08: Start of error session.
+L 03/01/2012 - 15:34:08: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:34:08: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:34:08: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:34:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 15:54:17: Start of error session.
+L 03/01/2012 - 15:54:17: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:54:17: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:54:17: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:54:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 15:56:22: Start of error session.
+L 03/01/2012 - 15:56:22: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:56:22: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:56:22: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:56:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 15:57:11: Start of error session.
+L 03/01/2012 - 15:57:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:57:11: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:57:11: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:57:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 15:58:58: Start of error session.
+L 03/01/2012 - 15:58:58: Info (map "aim_usp") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 15:58:58: Called dynanative into a paused plugin.
+L 03/01/2012 - 15:58:58: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 15:58:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:00:12: Start of error session.
+L 03/01/2012 - 16:00:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:00:12: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:00:12: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:00:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:01:16: Start of error session.
+L 03/01/2012 - 16:01:16: Info (map "awp_map") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:01:16: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:01:16: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:01:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:02:25: Start of error session.
+L 03/01/2012 - 16:02:25: Info (map "3d_aim_train_a") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:02:25: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:02:25: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:02:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:03:24: Start of error session.
+L 03/01/2012 - 16:03:24: Info (map "aim_qpad_2007") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:03:24: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:03:24: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:03:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:04:36: Start of error session.
+L 03/01/2012 - 16:04:36: Info (map "de_nuke") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:04:36: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:04:36: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:04:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:05:46: Start of error session.
+L 03/01/2012 - 16:05:46: Info (map "de_nuke_spam_spots") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:05:46: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:05:46: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:05:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:06:20: Start of error session.
+L 03/01/2012 - 16:06:20: Info (map "de_mirage") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:06:20: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:06:20: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:06:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:07:44: Start of error session.
+L 03/01/2012 - 16:07:44: Info (map "R2R_NukeJump") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:07:44: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:07:44: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:07:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:11:05: Start of error session.
+L 03/01/2012 - 16:11:05: Info (map "de_forge") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:11:05: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:11:05: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:11:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:13:38: Start of error session.
+L 03/01/2012 - 16:13:38: Info (map "awp_map") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:13:38: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:13:38: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:13:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/01/2012 - 16:14:33: Start of error session.
+L 03/01/2012 - 16:14:33: Info (map "de_forge") (file "addons/amxmodx/logs/error_20120301.log")
+L 03/01/2012 - 16:14:33: Called dynanative into a paused plugin.
+L 03/01/2012 - 16:14:33: [AMXX] Run time error 10 (plugin "csdm_ffa.amxx") (native "csdm_main_menu") - debug not enabled!
+L 03/01/2012 - 16:14:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

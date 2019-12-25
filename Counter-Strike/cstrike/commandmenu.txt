@@ -1,0 +1,212 @@
+﻿"0" "づ 蝸牛 专用优化菜单" ""
+"1" "-———————————————————" ""
+"2" "服务器基本设置"
+	{
+	"1" "输入OP" "messagemode rcon_password"
+	"2" "服务器刷新一次" "rcon sv_restartround 1"
+	"3" "服务器刷新三次" "exec r3.cfg"
+	"4" "设置服务器密码" "messagemode sv_password"
+	"5" "设置服务器名字" "exec snailcfg/rc/changeservername.rc"
+	"6" "重新载入游戏" "rcon restart"
+	"7" "载入比赛设置" "exec snailcfg/match.cfg"
+	"8"	"载入加时设置" "exec snailcfg/ot.cfg"
+	"9"	"载入混战设置" "exec snailcfg/off.cfg"     
+	"0"	"查看玩家信息"
+		{
+		"1" "查看玩家IP" "exec snailcfg/scoresc1.cfg"
+		"2" "查看玩家编号" "listplayers; toggleconsole"
+		"3" "查看玩家PING" "ping; toggleconsole"
+		"4" "查看服务器信息" "rcon stats; toggleconsole"
+		"5" "查看本地服务器列表" "slist;toggleconsole"
+		}
+	}
+"3"	"服务器高级设置"
+	{
+	"1" "游戏开局金钱"
+		{
+		"1" "$800" "rcon mp_startmoney 800"
+		"2" "$16000" "rcon mp_startmoney 16000"
+		"3" "输入金钱:" "exec snailcfg/rc/startmoney.rc"
+		}
+	"2" "游戏时间设置"
+		{
+			"1" "时间限制"
+				{
+				"1" "30分钟" "rcon mp_timelimit 20"
+				"2" "无限时" "rcon mp_timelimit 0"
+				"3" "输入时间:" "exec snailcfg/rc/timelimit.rc"
+				}
+			"2" "回合时间"
+				{
+				"1" "1分45秒" "rcon mp_roundtime 1.75"
+				"2" "2分钟" "rcon mp_roundtime 2"
+				"3" "输入时间:" "exec snailcfg/rc/roundtime.rc"
+				}
+			"3" "冻结时间"
+				{
+				"1" "不冻结" "rcon mp_freezetime 0"
+				"2" "冻结1秒" "rcon mp_freezetime 1"
+				"3" "冻结9秒" "rcon mp_freezetime 10"
+				"4" "输入时间:" "exec snailcfg/rc/freezetime.rc"
+				}
+			"4" "购买时间"
+				{
+				"1" "15秒" "rcon mp_buytime 0.25"
+				"2" "二分钟" "rcon mp_buytime 2"
+				"3" "输入时间:" "exec snailcfg/rc/buytime.rc"
+				}
+			"5" "C4爆炸时间"
+				{
+				"1" "35秒" "rcon mp_c4timer 35"
+				"2" "45秒" "rcon mp_c4timer 45"
+				"3" "输入时间:" "exec snailcfg/rc/c4timer.rc"
+				}
+		} 
+		"3" "暂停游戏"
+			{
+			"1" "允许暂停" "rcon pausable 1"
+			"2" "取消暂停" "rcon pausable 0"
+			"3" "暂停" "pause"
+			}
+		"4" "自动平衡"
+			{
+			"1" "开启" "rcon mp_autoteambalance 1;rcon mp_limitteams 1"
+			"2" "关闭" "rcon mp_autoteambalance 0;rcon mp_limitteams 50"
+			}       
+		"5" "友军伤害"
+			{
+			"1" "开启" "rcon mp_friendlyfire 1"
+			"2" "关闭" "rcon mp_friendlyfire 0"
+			}
+		"6" "伤害惩罚"
+			{
+			"1" "开启" "rcon mp_tkpunish 1"
+			"2" "关闭" "rcon mp_tkpunish 0"
+			}		   		    
+		"7" "死后视角"
+			{
+			"1" "自由视角" "rcon mp_forcecamera 0"
+			"2" "友军视角" "rcon mp_forcecamera 1"
+			"3" "固定视角" "rcon mp_forcecamera 2"
+			}		 
+		"8" "语音开关"
+			{
+			"1" "队内语音" "rcon sv_alltalk 0"
+			"2" "全局语音" "rcon sv_alltalk 1"
+			}
+		"9" "死后黑屏"
+			{
+			"1" "开启" "rcon mp_fadetoblack 1"
+			"2" "关闭" "rcon mp_fadetoblack 0"
+			}
+		"10" "允许脚步"
+			{
+			"1" "开启" "rcon mp_footsteps 1"
+			"2" "关闭" "rcon mp_footsteps 0"
+			}
+		"11" "战术手电"
+			{
+			"1" "允许" "rcon mp_flashlight 1"
+			"2" "禁止" "rcon mp_flashlight 0"
+			}  
+		"12" "无限手雷"
+			{
+			"1" "开启" "rcon o3o4o5_xl 1"
+			"2" "关闭" "rcon o3o4o5_xl 0"
+			"3" "存点" "say /rs"
+			}
+	}
+"4" "更换地图"
+	{   
+	"1" "比赛地图"
+		{ 
+		"1" "de_dust2" "rcon changelevel de_dust2"
+		"2" "de_forge" "rcon changelevel de_forge"
+		"3" "de_inferno" "rcon changelevel de_inferno"
+		"4" "de_mirage" "rcon changelevel de_de_mirage"
+		"5" "de_nuke" "rcon changelevel de_nuke"
+		"6" "de_russka" "rcon changelevel de_russka"
+		"7" "de_train" "rcon changelevel de_train"
+		"8" "de_tuscan" "rcon changelevel de_tuscan"
+		"9" "cs_bloodstrike" "rcon changelevel cs_bloodstrike"
+		"0" "cs_tyloostike" "rcon changelevel cs_tyloostike"
+		}
+	"2" "输入地图" "exec snailcfg/rc/changelevel.rc"
+	}
+"5" "玩家设置"
+	{
+	"0" "人物皮肤"
+		{
+		"1" "统一" "cl_minmodels 1"
+		"2" "不统" "cl_minmodels 0"
+		}
+	"1" "持枪设置"
+		{
+		"1" "右手" "cl_righthand 1;"
+		"2" "左手" "cl_righthand 0;"
+		}
+	"2" "捡枪切换"
+		{
+		"1" "换出武器" "_cl_autowepswitch 1"
+		"2" "保持武器" "_cl_autowepswitch 0"
+		}
+	"3" "准星大小"
+		{
+		"1" "大" "cl_crosshair_size large"
+		"2" "中" "cl_crosshair_size medium"
+		"3" "小" "cl_crosshair_size small"
+		}
+	"4" "雷达模式"
+		{
+		"1" "实心" "cl_radartype 1"
+		"2" "透明" "cl_radartype 0"
+		}
+	"4" "准星颜色"
+		{
+		"1" "打一枪换个颜色" "exec snailcfg/cc1.cfg"
+		"2" "打一枪不换颜色" "exec snailcfg/cc2.cfg"
+		}
+	"5" "鼠标速度" 
+		{
+		"1" "鼠标速度" "messagemode sensitivity"
+		"2" "开狙镜后鼠标速度" "messagemode zoom_sensitivity_ratio"
+		}
+	}
+"6" "网络设置"
+	{
+	"1" "rate" 
+		{
+		"1" "0.05" "ex_interp 0.05"
+		"2" "0.01" "ex_interp 0.01"
+		"3" "0.10" "ex_interp 0.1"
+		} 
+	"2" "局域网预设" "exec snailcfg/lan.cfg"
+	"3" "英特网预设参数" 
+		{ 
+		"1" "5~15 PING" "exec snailcfg/internet1.cfg"
+		"2" "15~29 PING" "exec snailcfg/internet2.cfg"
+		"3" "30~60 PING" "exec snailcfg/internet3.cfg"
+		"4" "60~120 PING" "exec snailcfg/internet4.cfg"
+		}
+	"4" "详细参数设置"
+		{
+		"1" "rate" "messagemode rate"
+		"2" "cl_cmdrate" "messagemode cl_cmdrate"
+		"3" "cl_cmdbackup" "messagemode cl_cmdbackup"
+		"4" "cl_updaterate" "messagemode cl_updaterate"
+		"5" "ex_interp" "messagemode ex_interp"
+		}
+	}
+"7" "比分截屏" 
+	{ 
+	"1" "比分截屏" "exec snailcfg/scoresc.cfg"
+	"2" "赛前截屏" "exec snailcfg/scoresc2.cfg"
+	}
+"8" "连接游戏"
+	{
+	"1" "在线重连" "reconnect"
+	"2" "断开重连" "retry"
+	}
+"9" "运行脚本" "exec snailcfg/snail.cfg"
+"10" "更改姓名" "messagemode name"
+"11" "退出菜单 づsnaiL" ""

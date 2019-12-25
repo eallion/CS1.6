@@ -1,0 +1,4 @@
+-game cstrike -gl -noipx -hisap -noforcemaccel -noforcemparms -noforcemspd -nojoy -freq -120 -32bpp -w 640 -h 480 -heapsize 760000
+
+HLDS²ÎÊý
+START/REALTIME hlds.exe -game cstrike +servercfgfile server.cfg -insecure -port 27015 +maxplayers 16 +map de_dust2 +sv_lan 0 -console -noipx
